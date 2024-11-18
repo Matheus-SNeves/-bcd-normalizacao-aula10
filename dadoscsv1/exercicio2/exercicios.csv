@@ -1,0 +1,21 @@
+id_exercicio;descricao;grupo_muscular;aparelho;s�rie
+1;Supino Reto;Peito;prancha peito reto;4R decrescente 12 10 8 6
+2;Puxada Baixa;Costas;puxador movel costas;4R decrescente 12 10 8 6
+3;Eleva��o Frontal;Ombro;alter 20k;4R decrescente 12 10 8 6
+4;Maq. Posterior;Ombro;prancha ombro;4R decrescente 12 10 8 6
+5;Corrida;Aquecimento;Esteira;30 min
+6;Supino declinado;Peito;prancha peito invertido;4R constante 8 8 8 8
+7;Remada Alta;Costas;puxador fixo costas;4R constante 8 8 8 8
+8;Maq. Posterior;Ombro;alter 30k;4R constante 8 8 8 8
+9;Empurrar Cochas;Perna;Leg Press;4R constante 8 8 8 8
+10;Pedalada;Aquecimento;Bicicleta Ergom�trica;30 min
+11;Supino Inclinado;Peito;prancha peito inclinado;4R constante 6 6 6 6
+12;Cerrote;Costas;puxador sentado costas;4R constante 6 6 6 6
+13;Biceps;Bra�o;alter 10k;4R constante 6 6 6 6
+14;Panturrilha;Perna;Leg Press;4R constante 15 15 15 15
+15;Supino Reto;Peito;prancha peito reto;4R constante 6 6 6 6
+16;crucifixo;Peito;crucifixo;4R constante 6 6 6 6
+17;Eleva��o Lateral;Ombro;alter 10k;4R constante 6 6 6 6
+18;Triceps;Bra�o;alter 10k;4R constante 6 6 6 6
+19;Caminhada;Aquecimento;Esteira;4R constante 15 15 15 15
+20;Supino declinado;Peito;prancha peito invertido;4R constante 6 6 6 6
